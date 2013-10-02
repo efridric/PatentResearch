@@ -40,7 +40,7 @@ public class WikipediaIndexer {
 	}
 	public static void main(String[] args) throws IOException, SAXException {
 		
-		String indexDir = "J:/DATA/WikipediaIndex";
+		String indexDir = "J:/DATA/test";
 		Directory dir = FSDirectory.open(new File(indexDir));
 		
 		Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_CURRENT);
