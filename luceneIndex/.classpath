@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/Programs/lucene-4.4.0/lucene-4.4.0-jars/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/Programs/lucene-4.4.0/lucene-4.4.0-jars/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Programs/lucene-4.4.0/lucene-4.4.0-jars/commons-digester3-3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programs/lucene-4.4.0/lucene-4.4.0-jars/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Programs/lucene-4.4.0/lucene-4.4.0-jars/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Programs/lucene-4.4.0/lucene-4.4.0-jars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Programs/lucene-4.4.0/lucene-4.4.0-jars/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Programs/lucene-4.4.0/lucene-4.4.0-jars/httpclient-cache-4.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Programs/lucene-4.4.0/lucene-4.4.0-jars/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programs/lucene-4.4.0/lucene-4.4.0-jars/httpmime-4.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Programs/lucene-4.4.0/lucene-4.4.0-jars/joda-time-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Programs/lucene-4.4.0/lucene-4.4.0-jars/jxl.jar"/>
+	<classpathentry kind="lib" path="D:/Programs/lucene-4.4.0/lucene-4.4.0-jars/lucene-analyzers-common-4.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Programs/lucene-4.4.0/lucene-4.4.0-jars/lucene-core-4.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Programs/lucene-4.4.0/lucene-4.4.0-jars/lucene-queries-4.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Programs/lucene-4.4.0/lucene-4.4.0-jars/lucene-queryparser-4.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Programs/lucene-4.4.0/lucene-4.4.0-jars/poi-3.9-20121203.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
